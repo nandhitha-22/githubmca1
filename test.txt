@@ -1,1 +1,3 @@
-create test.txt file
+a=23
+b=20
+print(a+b)
